@@ -1,4 +1,4 @@
-alert("Welcome to email address verification");
+alert("Welcome to email address verification page");
 const codes = document.querySelectorAll('.code')
 
 codes[0].focus()
